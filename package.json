@@ -9,6 +9,11 @@
 
   "private": true,
 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajshekharpro/blog-app.git"
+  },
+
   "dependencies": {
 
     "@emotion/react": "^11.13.0",
