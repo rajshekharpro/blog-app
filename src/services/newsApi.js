@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API_KEY = '264e797c93ed43a4893315a383dc64cb';
-const BASE_URL = 'http://newsapi.org/v2';
+const BASE_URL = 'https://newsapi.org/v2';
 
 export const getTopHeadlines = async (params) => {
   try {
